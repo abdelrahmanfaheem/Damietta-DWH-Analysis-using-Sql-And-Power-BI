@@ -1,4 +1,4 @@
-# ETL using SSIS and Data Analysis with Power BI
+# Build and End to End ETL  solution with an ETL using SSIS and Data Analysis with Power BI
 
 ### ETL with SSIS
 - Explore the process of building an ETL using SSIS Video [here](https://www.youtube.com/watch?v=2UTCREiSh54&t=14s).
